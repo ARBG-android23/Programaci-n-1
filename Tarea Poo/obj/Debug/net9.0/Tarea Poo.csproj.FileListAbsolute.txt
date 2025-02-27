@@ -1,0 +1,28 @@
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\appsettings.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.staticwebassets.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.exe
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.deps.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.runtimeconfig.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.dll
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\bin\Debug\net9.0\Tarea Poo.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.AssemblyInfoInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.AssemblyInfo.cs
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.csproj.CoreCompileInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\scopedcss\bundle\Tarea Poo.styles.css
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets\msbuild.Tarea Poo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets\msbuild.Tarea Poo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets\msbuild.build.Tarea Poo.props
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Tarea Poo.props
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Tarea Poo.props
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.dll
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\refint\Tarea Poo.dll
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\Tarea Poo.genruntimeconfig.cache
+C:\Users\18292\Desktop\Tarea de progamación\Tarea Poo\obj\Debug\net9.0\ref\Tarea Poo.dll
