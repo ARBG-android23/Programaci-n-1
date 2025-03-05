@@ -1,0 +1,14 @@
+C:\Users\yukki\source\repos\Herencia3\Herencia3\bin\Debug\net8.0\Herencia3.exe
+C:\Users\yukki\source\repos\Herencia3\Herencia3\bin\Debug\net8.0\Herencia3.deps.json
+C:\Users\yukki\source\repos\Herencia3\Herencia3\bin\Debug\net8.0\Herencia3.runtimeconfig.json
+C:\Users\yukki\source\repos\Herencia3\Herencia3\bin\Debug\net8.0\Herencia3.dll
+C:\Users\yukki\source\repos\Herencia3\Herencia3\bin\Debug\net8.0\Herencia3.pdb
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.AssemblyInfoInputs.cache
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.AssemblyInfo.cs
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.csproj.CoreCompileInputs.cache
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.dll
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\refint\Herencia3.dll
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.pdb
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\Herencia3.genruntimeconfig.cache
+C:\Users\yukki\source\repos\Herencia3\Herencia3\obj\Debug\net8.0\ref\Herencia3.dll

@@ -1,0 +1,14 @@
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.AssemblyInfoInputs.cache
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.AssemblyInfo.cs
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.csproj.CoreCompileInputs.cache
+C:\Users\yukki\source\repos\Herencia1\Herencia1\bin\Debug\net8.0\Herencia1.exe
+C:\Users\yukki\source\repos\Herencia1\Herencia1\bin\Debug\net8.0\Herencia1.deps.json
+C:\Users\yukki\source\repos\Herencia1\Herencia1\bin\Debug\net8.0\Herencia1.runtimeconfig.json
+C:\Users\yukki\source\repos\Herencia1\Herencia1\bin\Debug\net8.0\Herencia1.dll
+C:\Users\yukki\source\repos\Herencia1\Herencia1\bin\Debug\net8.0\Herencia1.pdb
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.dll
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\refint\Herencia1.dll
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.pdb
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\Herencia1.genruntimeconfig.cache
+C:\Users\yukki\source\repos\Herencia1\Herencia1\obj\Debug\net8.0\ref\Herencia1.dll
