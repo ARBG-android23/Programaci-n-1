@@ -1,0 +1,28 @@
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\appsettings.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.staticwebassets.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.exe
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.deps.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.runtimeconfig.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.dll
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\bin\Debug\net9.0\Polimorfismo 2.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.AssemblyInfoInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.AssemblyInfo.cs
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.csproj.CoreCompileInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\scopedcss\bundle\Polimorfismo 2.styles.css
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets\msbuild.Polimorfismo 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets\msbuild.Polimorfismo 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets\msbuild.build.Polimorfismo 2.props
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Polimorfismo 2.props
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Polimorfismo 2.props
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.dll
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\refint\Polimorfismo 2.dll
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\Polimorfismo 2.genruntimeconfig.cache
+C:\Users\18292\Desktop\Tarea de progamación\Practica polimorfismo - 2\Polimorfismo 2\obj\Debug\net9.0\ref\Polimorfismo 2.dll

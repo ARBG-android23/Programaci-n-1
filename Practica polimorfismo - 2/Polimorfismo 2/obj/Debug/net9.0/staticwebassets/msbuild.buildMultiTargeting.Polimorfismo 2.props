@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Polimorfismo 2.props" />
+</Project>
