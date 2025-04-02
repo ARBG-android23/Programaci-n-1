@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practica Herencia C#-2.props" />
+</Project>
