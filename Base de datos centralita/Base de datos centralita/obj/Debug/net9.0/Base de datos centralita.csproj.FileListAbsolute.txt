@@ -1,0 +1,28 @@
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\appsettings.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.staticwebassets.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.exe
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.deps.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.runtimeconfig.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.dll
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\bin\Debug\net9.0\Base de datos centralita.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.AssemblyInfoInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.AssemblyInfo.cs
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.csproj.CoreCompileInputs.cache
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\scopedcss\bundle\Base de datos centralita.styles.css
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets\msbuild.Base de datos centralita.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets\msbuild.Base de datos centralita.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets\msbuild.build.Base de datos centralita.props
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Base de datos centralita.props
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Base de datos centralita.props
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.dll
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\refint\Base de datos centralita.dll
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.pdb
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\Base de datos centralita.genruntimeconfig.cache
+C:\Users\18292\Desktop\Tarea de progamación\Base de datos centralita\Base de datos centralita\obj\Debug\net9.0\ref\Base de datos centralita.dll
